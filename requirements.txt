@@ -1,0 +1,10 @@
+transformers==4.46.0.dev0
+torch
+pytest
+huggingface_hub
+requests
+Pillow
+gradio
+tokenizers<0.21,>=0.20
+sentencepiece
+protobuf
