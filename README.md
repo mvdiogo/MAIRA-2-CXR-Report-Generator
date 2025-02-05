@@ -29,8 +29,8 @@ This project implements a Gradio-based application that utilizes the MAIRA-2 mod
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/mvdiogo/MAIRA-2-CXR-Report-Generator.git
+    cd MAIRA-2-CXR-Report-Generator 
     ```
 
 2.  Create a virtual environment (optional but recommended):
