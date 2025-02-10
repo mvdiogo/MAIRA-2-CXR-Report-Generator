@@ -45,7 +45,7 @@ This project implements a Gradio-based application that utilizes the MAIRA-2 mod
 
     ```bash
     pip install -r requirements.txt
-    pip install git+https://github.com/huggingface/transformers.git@88d960937c81a32bfb63356a2e8ecf7999619681
+    pip install --force-reinstall git+https://github.com/huggingface/transformers.git@88d960937c81a32bfb63356a2e8ecf7999619681
     ```
 
 4.  Install PyTorch:
